@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NT_AI_Service", "NT_AI_Service\NT_AI_Service.csproj", "{A519EAED-E035-4CD5-B6B2-BA8738A424A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NT_Strategy", "NT_Strategy\NT_Strategy.csproj", "{F1B015A3-1D97-4A54-81B6-5C4C53259B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A519EAED-E035-4CD5-B6B2-BA8738A424A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A519EAED-E035-4CD5-B6B2-BA8738A424A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A519EAED-E035-4CD5-B6B2-BA8738A424A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B015A3-1D97-4A54-81B6-5C4C53259B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B015A3-1D97-4A54-81B6-5C4C53259B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B015A3-1D97-4A54-81B6-5C4C53259B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B015A3-1D97-4A54-81B6-5C4C53259B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
